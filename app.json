@@ -1,0 +1,22 @@
+{
+    "name": "OCR Bot",
+    "description": "Telegram Bot to Extract Text from Image",
+    "repository": "https://github.com/DeccanBotz/OCR",
+    "logo": "https://telegra.ph/file/f48ff733ca4d1621a4097.jpg",
+    "keywords": ["DeccanBotz", "ocr", "Text Extractor", "Optical Character Recognition"],
+    "env":{
+        "BOT_TOKEN":{
+            "description":"Your Bot Token from @Botfather",
+            "required":"True"
+        },
+        "API_KEY":{
+            "description":"Your Api key from https://ocr.space/ocrapi",
+            "required":"True"
+        },
+        "OWNER":{
+            "description":"Your Username without '@'",
+            "required":"True"
+        }
+    }
+
+}
