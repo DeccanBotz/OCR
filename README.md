@@ -22,7 +22,7 @@ License -> https://github.com/DeccanBotz/OCR/blob/main/LICENSE
 
 ### Configs
 
-* `API_KEY` Your API_KEY from [OCR Space](https://ocr.space/ocrapi)
+* `API_KEY` Your API_KEY from [OCR Space](https://us11.list-manage.com/subscribe?u=ce17e59f5b68a2fd3542801fd&id=252aee70a1)
 
 * `OWNER` Your Username without '@'
 
