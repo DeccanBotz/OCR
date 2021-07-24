@@ -29,7 +29,7 @@ License -> https://github.com/DeccanBotz/OCR/blob/main/LICENSE
 * `BOT_TOKEN` Your bot token from @BotFather
 
 ### Deploy to Heroku
-* Here is the [Tutorial](https://youtu.be/Fu8CgWFTAoM) for Creating your own Bot
+* Here is the [Tutorial](https://youtu.be/7yqjm-DCaXE) for Creating your own Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DeccanBotz/OCR)
 
